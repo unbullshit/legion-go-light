@@ -21,8 +21,11 @@ A [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin for c
 
 ## Install
 
-1. Zip the `Legion Go Lights` folder (the folder itself must be at the top of the zip).
-2. In Gaming Mode: **Decky → Settings → Developer → Install plugin from ZIP file**.
+1. Download **[Legion-Go-Lights.zip](https://github.com/unbullshit/legion-go-light/raw/main/Legion-Go-Lights.zip)**.
+2. In Gaming Mode: **Decky → Settings → Developer → Install plugin from ZIP file**, and pick the zip.
+
+To build the zip yourself instead, zip the `Legion Go Lights` folder (the folder itself must be at
+the top of the zip).
 
 ## How it works
 
