@@ -1,0 +1,7 @@
+{
+  "name": "legion-go-lights",
+  "version": "1.0.2",
+  "description": "Legion Go joystick ring light control for Decky Loader",
+  "type": "module",
+  "license": "BSD-3-Clause"
+}

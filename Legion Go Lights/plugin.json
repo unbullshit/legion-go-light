@@ -1,0 +1,11 @@
+{
+  "name": "Legion Go Lights",
+  "author": "deck",
+  "flags": ["root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["legion go", "rgb", "lights", "controller"],
+    "description": "Control the Legion Go joystick ring lights (on/off, effect, colour, brightness, speed) and keep them applied after sleep.",
+    "image": ""
+  }
+}
